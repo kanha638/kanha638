@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha638&label=Profile%20views&color=0e75b6&style=flat" alt="kanha638" /> </p>
 
-- 🌱 I’m currently learning **Android Devlopment**
+- 🌱 I’m currently Working on **Web Dev and Machine Learning**
 
 - 💬 Ask me about **react, node**
 
