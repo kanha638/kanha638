@@ -28,5 +28,5 @@
       width="49.5%"
       src="https://github-readme-streak-stats.herokuapp.com?user=kanha638&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"
     />
-    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanha638&layout=compact&show_icons=true&locale=en&theme=dark&hide_border=true" alt="kanha638" /></p>
+    <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanha638&layout=compact&show_icons=true&locale=en&theme=dark&hide_border=true" alt="kanha638" /></p>
 
