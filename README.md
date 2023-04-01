@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Working on **Web Dev and Machine Learning**
 
-- 💬 Ask me about **react, node and angular**
+- 💬 Ask me about **Web Developement and System Design**
 
 - 📫 How to reach me **tiwarikanha26@gmail.com**
 
