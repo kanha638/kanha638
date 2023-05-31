@@ -54,13 +54,13 @@
     <a href="https://www.linkedin.com/in/kanhatiwari/">
           <img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/kanhatiwari/">
+    <a href="https://www.codechef.com/users/kanha_638">
           <img src="https://img.shields.io/badge/codechef-gray.svg?style=for-the-badge&logo=codechef&logoColor=white">
     </a>
-    <a href="https://www.linkedin.com/in/kanhatiwari/">
+    <a href="https://codeforces.com/profile/Calamine">
           <img src="https://img.shields.io/badge/codeforces-black.svg?style=for-the-badge&logo=codeforces&logoColor=red">
     </a>
-    <a href="https://www.linkedin.com/in/kanhatiwari/">
+    <a href="https://leetcode.com/Bblizzrd/">
           <img src="https://img.shields.io/badge/leetcode-orange.svg?style=for-the-badge&logo=leetcode&logoColor=red">
     </a>
   </p>
