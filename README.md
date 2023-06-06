@@ -49,7 +49,7 @@
 <br>
   
 <div> 
-   <p align="center"><strong>Social & Coding Profile</strong></p>
+   <p align="center"><strong>Social Media & Coding Profile</strong></p>
   <p align="center">
     <a href="https://www.linkedin.com/in/kanhatiwari/">
           <img src="https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white">
